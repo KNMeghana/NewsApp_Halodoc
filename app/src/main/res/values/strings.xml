@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_title">Please select any of the below categories to view the news</string>
+    <array name="news_categories">
+        <item>Sports</item>
+        <item>Bollywood</item>
+        <item>Politics</item>
+        <item>Art</item>
+    </array>
+</resources>
